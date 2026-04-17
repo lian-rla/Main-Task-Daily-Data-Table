@@ -97,7 +97,7 @@ Required columns in the CSV:
 
 ## Output
 
-![Figure Output](figure_output_labeled.png)
+![Figure Output](figure_output.png)
 
 After input, a figure composed of 6 subplots will be displayed.
 
