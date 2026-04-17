@@ -54,7 +54,7 @@ python main_task_daily_data_table.py
 
 ### 2. 실험 정보 입력 창
 
-![Input Dialog](images/input_dialog.png)
+![Input Dialog](input_dialog.png)
 
 폴더 선택 후 아래와 같은 입력 창이 표시됩니다.
 
@@ -97,7 +97,7 @@ CSV에 필요한 컬럼:
 
 ## Output
 
-![Figure Output](images/figure_output.png)
+![Figure Output](figure_output.png)
 
 입력 완료 후 6개의 서브플롯으로 구성된 Figure가 표시됩니다.
 
